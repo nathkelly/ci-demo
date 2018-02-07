@@ -7,5 +7,5 @@ RUN apk add wget curl make
 RUN curl -L https://cpanmin.us | perl - -M https://cpan.metacpan.org -n Mojolicious
 
 #Adding some commentary to the docker build file
-#Bosh
+#Bosh 2
 #Testing endpoint change again 
